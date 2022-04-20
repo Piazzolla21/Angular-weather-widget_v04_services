@@ -1,0 +1,6 @@
+### https://medium.com/refinitiv-developer-community/how-to-test-rest-api-with-visual-studio-code-rest-client-extensions-9f2e061d0299
+### documentazione api https://openweathermap.org/current
+### l'elenco delle città lo trovi nella sezione parameters oppure nel file http://bulk.openweathermap.org/sample/
+
+
+GET   https://dati.comune.milano.it/dataset/cc3c732a-99e1-432d-948d-12caad4c336d/resource/91451e4a-e73f-4db9-9c2b-22a6a0753ebd/download/qaria_reportariagiorno.json  HTTP/1.1

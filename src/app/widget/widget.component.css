@@ -1,0 +1,25 @@
+.cont {
+    display: block;
+    margin:0 auto;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius:10px;
+    width:75%;
+}
+.cont img {
+    padding-top: 2.5vh;
+    display: block;
+    margin:0 auto;
+    width: 5vw;
+    height: 8vh;
+}
+.titolo {
+    text-align: center;
+    font-size:7vh;
+}
+hr{
+    color: black;
+    background: black;
+    border: 0;
+    height: 1px;
+}
